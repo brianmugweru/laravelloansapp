@@ -1,0 +1,20 @@
+{
+  "name": "loansapp",
+  "description": "<p align=\"center\"><img src=\"https://laravel.com/assets/img/components/logo-laravel.svg\"></p>",
+  "main": "webpack.mix.js",
+  "authors": [
+    "Brian Muugweru <brianmugweru@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/brianmugweru/flaskpython",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "^5.5.3"
+  }
+}
